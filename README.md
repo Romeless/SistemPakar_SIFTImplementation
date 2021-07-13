@@ -1,2 +1,6 @@
 # SistemPakar_SIFTImplementation
-Me and my friend's SIFT Implementation for Class and Safekeeping
+A Class assigment of SIFT Implementation for safekeeping
+
+# Made by
+- Rama Lesmana
+- M. Luthfi Albiansyah
